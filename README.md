@@ -1,4 +1,4 @@
-## Quota-Based Pivotality in Random Bipartite Networks
+# Quota-Based Pivotality in Random Bipartite Networks
 
 This repository contains the simulation framework used in:
 
